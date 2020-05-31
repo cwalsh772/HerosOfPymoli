@@ -1,6 +1,6 @@
 Using the data gathered from the game Heroes of Pymoli. The following trends can be observed:
 
 1. The majority of users are male (84%). With (77%) of the user base being in the age range 15-29.
-2. Females users tend to spend more money on avearge. It could prove profitable to expand the female player base.
+2. Female users tend to spend more money on avearge. It could prove profitable to expand the female player base.
 3. Users seem to begin to age out of the game after the 25-29 age demographic. However users in the 35-39 spend the most on average.
 It could be profitable to attempt retaining users longer. 
